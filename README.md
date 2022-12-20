@@ -29,7 +29,8 @@ x=y
 y=temp
 print('Swapped values are: {} {}'.format(x,y))
 ```
-
+## OUTPUT:
+![MODEL](/swapping_output.png)
 
 
 ## RESULT:
